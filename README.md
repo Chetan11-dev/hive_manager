@@ -1,6 +1,6 @@
 # hive_manager
 
-A new Flutter package.
+A wrapper around hive which provides hive instantiation and allows opening of a one box at a time.
 
 ## Getting Started
 
